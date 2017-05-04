@@ -1,5 +1,7 @@
 # Typed Page  [![Build Status](https://travis-ci.org/typed-typings/visionmedia-page.js.svg?branch=master)](https://travis-ci.org/typed-typings/visionmedia-page.js)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-page.svg)](https://greenkeeper.io/)
+
 
 The type definition for [`page`](git://github.com/visionmedia/page.js.git)
 
