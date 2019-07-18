@@ -132,7 +132,7 @@ declare namespace page {
    *       next()
    *     })
    */
-  function exit(path: string, callback: Callback, moreCallbacks?: Callback[]): void;
+  function exit(path: string, callback: Callback, ...moreCallbacks: Callback[]): void;
   /**
    * Equivalent to page.exit('*', callback).
    */
